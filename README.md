@@ -7,7 +7,8 @@ npm audit fix --force
 
 # Snippets
 Install ES7 react snippet plugin
-rfce
+rfce - component
+imr - import
 
 # Router
 npm install react-router-dom
