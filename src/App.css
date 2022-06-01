@@ -28,6 +28,7 @@
 
 .products {
   /* background-image: url('public/images/img-1.jpg'); */
+  background-color: #242424;
   background-position: center;
   background-size: fill;
   background-repeat: no-repeat;
@@ -37,6 +38,7 @@
 
 .sign-up {
   /* background-image: url('public/images/img-8.jpg'); */
+  background-color: #242424;
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
